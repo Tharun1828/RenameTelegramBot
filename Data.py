@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to rename documents and files with certain other features. Use `/help` to learn how !
 
-By @StarkBots
+By @Sk_Network 
     """
 
     # Home Button
@@ -20,13 +20,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/Sk_Network")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Sk_Network")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/Sk_Network")],
     ]
 
     # Help Message
@@ -51,11 +51,11 @@ Just send a document / video to start renaming. Then when asked, give the new na
 
 A telegram rename bot by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/RenameTelegramBot)
+Source Code : [Click Here](https://t.me/Sk_Network)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @Sk_Network 
     """
